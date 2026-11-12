@@ -32,7 +32,7 @@ Total starred repositories: `282`
 
 ## Blade
 
-  - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. (⭐️85435)
+  - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. (⭐️85394)
 
 ## C
 
@@ -40,14 +40,14 @@ Total starred repositories: `282`
 
 ## C#
 
-  - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations. \[*GNU GPLv3*\] (⭐️40939)
+  - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations. \[*GNU GPLv3*\] (⭐️40976)
 
 ## C++
 
   - [kothariji/competitive-programming](https://github.com/kothariji/competitive-programming) - A one-stop Destination✏️ for all your Competitive Programming Resources.📗📕    Refer CONTRIBUTING.md for contributions (⭐️707)
-  - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web \[*GNU GPLv3*\] (⭐️9348)
+  - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web \[*GNU GPLv3*\] (⭐️9349)
   - [VAR-solutions/Algorithms](https://github.com/VAR-solutions/Algorithms) - A repository of different Algorithms and Data Structures implemented in many programming languages. \[*MIT License*\] (⭐️790)
-  - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible \[*GNU GPLv3*\] (⭐️10578)
+  - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible \[*GNU GPLv3*\] (⭐️10584)
 
 ## CSS
 
@@ -57,29 +57,29 @@ Total starred repositories: `282`
 
   - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox \[*GNU GPLv3*\] (⭐️13114)
   - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. \[*MIT License*\] (⭐️10607)
-  - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema. (⭐️6981)
+  - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema. (⭐️6982)
   - [abhimanyu003/probe](https://github.com/abhimanyu003/probe) - Simplified Integration Testing Using YAML and JQ \[*MIT License*\] (⭐️35)
   - [abhimanyu003/pttr](https://github.com/abhimanyu003/pttr) - pttr: port and process terminator is cross-platform terminal UI application for viewing and managing open ports - process on your system. \[*MIT License*\] (⭐️10)
   - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string \[*MIT License*\] (⭐️1352)
-  - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup \[*MIT License*\] (⭐️31616)
-  - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language" (⭐️8058)
+  - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup \[*MIT License*\] (⭐️31639)
+  - [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language" (⭐️8057)
   - [alextanhongpin/go-learn](https://github.com/alextanhongpin/go-learn) - Things I learnt about go (⭐️11)
-  - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. \[*Apache License 2.0*\] (⭐️15713)
+  - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. \[*Apache License 2.0*\] (⭐️15712)
   - [bagashiz/go-pos](https://github.com/bagashiz/go-pos) - Simple RESTful Point of Sale (POS) Service API written in Go using Gin web framework, PostgreSQL database, and Redis cache. Proof of concept of implementing Hexagonal Architecture in Go. \[*MIT License*\] (⭐️355)
   - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go \[*MIT License*\] (⭐️7044)
   - [brotherpowers/go-algorithms](https://github.com/brotherpowers/go-algorithms) - Algorithms and data structures in GO, with explanations! \[*MIT License*\] (⭐️7)
   - [brotherpowers/ipsubnet](https://github.com/brotherpowers/ipsubnet) - Network calculator for subnet mask and other classless (CIDR) network information. ( GO ) \[*MIT License*\] (⭐️57)
-  - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture \[*MIT License*\] (⭐️10188)
+  - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture \[*MIT License*\] (⭐️10187)
   - [cassiobotaro/60-days-of-go](https://github.com/cassiobotaro/60-days-of-go) - :card_index_dividers: 60 days discovering go \[*GNU GPLv3*\] (⭐️410)
   - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) \[*BSD 2-Clause "Simplified" License*\] (⭐️20088)
-  - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 \[*MIT License*\] (⭐️45683)
-  - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 \[*MIT License*\] (⭐️21302)
-  - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. \[*MIT License*\] (⭐️10526)
+  - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 \[*MIT License*\] (⭐️45711)
+  - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 \[*MIT License*\] (⭐️21315)
+  - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. \[*MIT License*\] (⭐️10524)
   - [Code-Hex/vz](https://github.com/Code-Hex/vz) - Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.framework. \[*MIT License*\] (⭐️932)
   - [codingsince1985/UVa](https://github.com/codingsince1985/UVa) - 800 UVa Online Judge solutions in Go \[*MIT License*\] (⭐️127)
   - [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go \[*MIT License*\] (⭐️3847)
   - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库 (⭐️5217)
-  - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. \[*Apache License 2.0*\] (⭐️12617)
+  - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. \[*Apache License 2.0*\] (⭐️12621)
   - [digineo/go-ping](https://github.com/digineo/go-ping) - A simple ping library using ICMP echo requests. \[*MIT License*\] (⭐️250)
   - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos. \[*MIT License*\] (⭐️2492)
   - [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. \[*Apache License 2.0*\] (⭐️2241)
@@ -87,7 +87,7 @@ Total starred repositories: `282`
   - [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang \[*MIT License*\] (⭐️5222)
   - [dsgnr/datum](https://github.com/dsgnr/datum) - Datum is a Git-based Linux system reconciliation tool that keeps machines aligned to a desired state defined in a repository, automatically detecting drift and enforcing configuration changes across hosts. \[*Apache License 2.0*\] (⭐️1)
   - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go. \[*MIT License*\] (⭐️5301)
-  - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go \[*MIT License*\] (⭐️5936)
+  - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go \[*MIT License*\] (⭐️6039)
   - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant. \[*MIT License*\] (⭐️867) *Archived!*
   - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more (⭐️17456)
   - [essentialkaos/aligo](https://github.com/essentialkaos/aligo) - Utility for checking and viewing Golang struct alignment info \[*Apache License 2.0*\] (⭐️208)
@@ -98,40 +98,40 @@ Total starred repositories: `282`
   - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing \[*GNU AGPLv3*\] (⭐️8513)
   - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering. \[*Mozilla Public License 2.0*\] (⭐️2784)
   - [gioui/gio](https://github.com/gioui/gio) - Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio) (⭐️2297)
-  - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices. \[*MIT License*\] (⭐️27412)
-  - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era. \[*MIT License*\] (⭐️26021)
-  - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go \[*MIT License*\] (⭐️11830)
-  - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping. \[*MIT License*\] (⭐️7150)
+  - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices. \[*MIT License*\] (⭐️27413)
+  - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era. \[*MIT License*\] (⭐️26027)
+  - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go \[*MIT License*\] (⭐️11831)
+  - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping. \[*MIT License*\] (⭐️7152)
   - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) -  (⭐️3407)
-  - [GoesToEleven/GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language) (⭐️10551)
+  - [GoesToEleven/GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language) (⭐️10552)
   - [goforj/godump](https://github.com/goforj/godump) - Configurable Go value and struct dumps with colorized output, type visibility controls, and field redaction. \[*MIT License*\] (⭐️1769)
-  - [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development. \[*MIT License*\] (⭐️13303)
+  - [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development. \[*MIT License*\] (⭐️13302)
   - [golang-design/go-questions](https://github.com/golang-design/go-questions) - 📖 Go 程序员面试笔试宝典 | 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions \[*GNU GPLv3*\] (⭐️6419)
-  - [golang/go](https://github.com/golang/go) - The Go programming language \[*Modified BSD License*\] (⭐️139894)
+  - [golang/go](https://github.com/golang/go) - The Go programming language \[*Modified BSD License*\] (⭐️139859)
   - [gookit/cache](https://github.com/gookit/cache) - 🗃  Generic cache use and cache manage. Provide a unified usage API by packaging various commonly used drivers. Support File, Memory, Redis, Memcached and more. Go 通用的缓存使用库，通过包装各种常用的驱动，来提供统一的使用API，便于使用。 \[*MIT License*\] (⭐️195)
   - [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils(900+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等 \[*MIT License*\] (⭐️2362)
-  - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified \[*MIT License*\] (⭐️16148)
-  - [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend. \[*Apache License 2.0*\] (⭐️1235)
-  - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript \[*GNU AGPLv3*\] (⭐️32257)
-  - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go \[*MIT License*\] (⭐️13823)
+  - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified \[*MIT License*\] (⭐️16145)
+  - [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend. \[*Apache License 2.0*\] (⭐️1234)
+  - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript \[*GNU AGPLv3*\] (⭐️32268)
+  - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go \[*MIT License*\] (⭐️13830)
   - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide \[*Apache License 2.0*\] (⭐️14903)
-  - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. (⭐️20189)
-  - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch \[*MIT License*\] (⭐️2307)
-  - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go. \[*MIT License*\] (⭐️4374)
+  - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. (⭐️20190)
+  - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch \[*MIT License*\] (⭐️2306)
+  - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go. \[*MIT License*\] (⭐️4375)
   - [kamilsk/check](https://github.com/kamilsk/check) - 🔬 Tool to check something. \[*MIT License*\] (⭐️7)
   - [koki-develop/clive](https://github.com/koki-develop/clive) - ⚡ Automates terminal operations. \[*MIT License*\] (⭐️394)
-  - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard. \[*Apache License 2.0*\] (⭐️12135)
-  - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework \[*MIT License*\] (⭐️32804)
+  - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard. \[*Apache License 2.0*\] (⭐️12136)
+  - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework \[*MIT License*\] (⭐️32814)
   - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go (⭐️3126)
   - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns (⭐️2895)
-  - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. \[*Apache License 2.0*\] (⭐️22665)
+  - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC. \[*Apache License 2.0*\] (⭐️22673)
   - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (⭐️2216)
-  - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly. \[*MIT License*\] (⭐️8983)
+  - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly. \[*MIT License*\] (⭐️8985)
   - [maypok86/otter](https://github.com/maypok86/otter) - A high performance caching library for Go \[*Apache License 2.0*\] (⭐️2712)
   - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. \[*MIT License*\] (⭐️1263)
-  - [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services \[*Apache License 2.0*\] (⭐️23083)
-  - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go \[*Modified BSD License*\] (⭐️8814)
-  - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor \[*MIT License*\] (⭐️16267)
+  - [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services \[*Apache License 2.0*\] (⭐️23084)
+  - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go \[*Modified BSD License*\] (⭐️8815)
+  - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor \[*MIT License*\] (⭐️16288)
   - [mjpclab/go-http-file-server](https://github.com/mjpclab/go-http-file-server) - Simple command line based HTTP file server to share local file system \[*MIT License*\] (⭐️489)
   - [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (⭐️2424)
   - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages \[*MIT License*\] (⭐️326)
@@ -139,72 +139,72 @@ Total starred repositories: `282`
   - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects \[*MIT License*\] (⭐️4810)
   - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 \[*GNU GPLv3*\] (⭐️388)
   - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file \[*MIT License*\] (⭐️61598) *Archived!*
-  - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. \[*MIT License*\] (⭐️17826)
-  - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. \[*MIT License*\] (⭐️32788)
-  - [pterm/pterm](https://github.com/pterm/pterm) - ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible. \[*MIT License*\] (⭐️5567)
-  - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development \[*MIT License*\] (⭐️23959)
-  - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement \[*Apache License 2.0*\] (⭐️20778)
+  - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework. \[*MIT License*\] (⭐️17831)
+  - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. \[*MIT License*\] (⭐️32825)
+  - [pterm/pterm](https://github.com/pterm/pterm) - ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible. \[*MIT License*\] (⭐️5568)
+  - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development \[*MIT License*\] (⭐️23960)
+  - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement \[*Apache License 2.0*\] (⭐️20781)
   - [reconcilerio/dies](https://github.com/reconcilerio/dies) - immutable, fluent, builders for Kubernetes resources \[*Apache License 2.0*\] (⭐️9)
-  - [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite. \[*Mozilla Public License 2.0*\] (⭐️5885)
+  - [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite. \[*Mozilla Public License 2.0*\] (⭐️5887)
   - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang \[*MIT License*\] (⭐️14149)
   - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list. \[*MIT License*\] (⭐️70)
   - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) \[*MIT License*\] (⭐️21449)
   - [sazardev/goca](https://github.com/sazardev/goca) - Goca is a powerful CLI code generator for Go that helps you create Clean Architecture projects following best practices. \[*MIT License*\] (⭐️306)
-  - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless \[*GNU GPLv3*\] (⭐️4560)
+  - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless \[*GNU GPLv3*\] (⭐️4561)
   - [songzhibin97/gkit](https://github.com/songzhibin97/gkit) - A collection of basic usability component tools dedicated to providing micro-services and single services, drawing on some excellent open source project features such as kratos, go-kit, mosn, sentinel, gopkg core components. I hope you will use and mention issue and pr more often. \[*Apache License 2.0*\] (⭐️340)
-  - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go \[*MIT License*\] (⭐️10437)
+  - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go \[*MIT License*\] (⭐️10438)
   - [StarpTech/go-web](https://github.com/StarpTech/go-web) - Modern Web Application with Golang \[*MIT License*\] (⭐️313)
   - [syyongx/php2go](https://github.com/syyongx/php2go) - Use Golang to implement PHP's common built-in functions. \[*MIT License*\] (⭐️1639)
   - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings \[*MIT License*\] (⭐️684)
-  - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. \[*MIT License*\] (⭐️18254)
-  - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms \[*Apache License 2.0*\] (⭐️28332)
-  - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000! \[*MIT License*\] (⭐️25247)
+  - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices. \[*MIT License*\] (⭐️18260)
+  - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms \[*Apache License 2.0*\] (⭐️28333)
+  - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000! \[*MIT License*\] (⭐️25250)
   - [u-root/gobusybox](https://github.com/u-root/gobusybox) - Tools for compiling many Go commands into one binary to save space. Builds are supported for vendor-based Go and module-based Go \[*Modified BSD License*\] (⭐️197)
-  - [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs \[*Apache License 2.0*\] (⭐️2489)
+  - [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs \[*Apache License 2.0*\] (⭐️2494)
   - [vmware-labs/reconciler-runtime](https://github.com/vmware-labs/reconciler-runtime) - ⚠️ Maintenance suspended. Please, migrate to the active fork reconciler.io/runtime. See https://github.com/reconcilerio/runtime/releases/tag/v0.20.0 for instructions. This repository will be archived eventually. (⭐️77) *Archived!*
-  - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image \[*MIT License*\] (⭐️54718)
-  - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go \[*MIT License*\] (⭐️37046)
-  - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows \[*Apache License 2.0*\] (⭐️22691)
-  - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers \[*Apache License 2.0*\] (⭐️6464)
+  - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image \[*MIT License*\] (⭐️54722)
+  - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go \[*MIT License*\] (⭐️37061)
+  - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows \[*Apache License 2.0*\] (⭐️22695)
+  - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers \[*Apache License 2.0*\] (⭐️6466)
   - [zc2638/go-standard](https://github.com/zc2638/go-standard) - Go常用规范定义，标准库方法使用示例，请注意这不是Go的中文版标准库(传送门) \[*Apache License 2.0*\] (⭐️474)
-  - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. \[*MIT License*\] (⭐️33424)
-  - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. \[*GNU AGPLv3*\] (⭐️2197)
+  - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. \[*MIT License*\] (⭐️33426)
+  - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. \[*GNU AGPLv3*\] (⭐️2198)
 
 ## HTML
 
   - [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail. \[*Apache License 2.0*\] (⭐️2542)
   - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨ \[*MIT License*\] (⭐️11032)
   - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares  (⭐️25650) *Archived!*
-  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️142554)
+  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️142661)
 
 ## Java
 
   - [iiitv/algos](https://github.com/iiitv/algos) - Popular Algorithms and Data Structures implemented in popular languages \[*MIT License*\] (⭐️1069)
-  - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com） (⭐️76714)
+  - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com） (⭐️76710)
 
 ## JavaScript
 
-  - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. \[*MIT License*\] (⭐️115479)
-  - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide \[*MIT License*\] (⭐️148013)
+  - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. \[*MIT License*\] (⭐️116272)
+  - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide \[*MIT License*\] (⭐️148009)
   - [anvaka/map-of-reddit-data](https://github.com/anvaka/map-of-reddit-data) - Contains scripts and data to render map of reddit (⭐️129)
-  - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code \[*MIT License*\] (⭐️36143)
-  - [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo \[*MIT License*\] (⭐️698)
-  - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 (⭐️186481)
+  - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code \[*MIT License*\] (⭐️36147)
+  - [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo \[*MIT License*\] (⭐️697)
+  - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 (⭐️186499)
   - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉 \[*MIT License*\] (⭐️28246)
-  - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. \[*GNU AGPLv3*\] (⭐️40301)
+  - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. \[*GNU AGPLv3*\] (⭐️40310)
   - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates. \[*GNU LGPLv3*\] (⭐️5488)
-  - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping \[*MIT License*\] (⭐️12959)
-  - [kgretzky/pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. \[*GNU GPLv3*\] (⭐️2282)
+  - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping \[*MIT License*\] (⭐️12960)
+  - [kgretzky/pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. \[*GNU GPLv3*\] (⭐️2284)
   - [lassebomh/htmx-playground](https://github.com/lassebomh/htmx-playground) -  A simple code sandbox for playing around with HTMX. No setup needed!  \[*MIT License*\] (⭐️190)
   - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go \[*MIT License*\] (⭐️5587)
   - [pixlcore/xyops](https://github.com/pixlcore/xyops) - The next generation of Cronicle: open-source job scheduling, visual workflows, server monitoring, alerting, and incident response. \[*Modified BSD License*\] (⭐️6335)
   - [pyrsmk/qwest](https://github.com/pyrsmk/qwest) - Ajax library with XHR2, promises and request limit \[*MIT License*\] (⭐️705) *Archived!*
-  - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one. \[*GNU GPLv3*\] (⭐️6377) *Archived!*
+  - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one. \[*GNU GPLv3*\] (⭐️6376) *Archived!*
   - [shgopher/GOFamily](https://github.com/shgopher/GOFamily) - 🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。 (⭐️2288)
   - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments. \[*MIT License*\] (⭐️5050)
   - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously) \[*MIT License*\] (⭐️75738)
   - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web. \[*MIT License*\] (⭐️3639)
-  - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack. \[*MIT License*\] (⭐️20114)
+  - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack. \[*MIT License*\] (⭐️20113)
 
 ## Jupyter Notebook
 
@@ -213,20 +213,20 @@ Total starred repositories: `282`
 ## Kotlin
 
   - [akshay2211/NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - An offline-first application in Jetpack Compose with MVVM architecture, representing a minimalistic implementation of Top Stories API. \[*Apache License 2.0*\] (⭐️126)
-  - [sarim2000/pennywiseai-tracker](https://github.com/sarim2000/pennywiseai-tracker) - PennyWise automatically reads transaction SMS messages and transforms them    into organized financial data with on-device AI assistance. No manual   entry, no cloud processing, complete privacy. \[*GNU AGPLv3*\] (⭐️623)
+  - [sarim2000/pennywiseai-tracker](https://github.com/sarim2000/pennywiseai-tracker) - PennyWise automatically reads transaction SMS messages and transforms them    into organized financial data with on-device AI assistance. No manual   entry, no cloud processing, complete privacy. \[*GNU AGPLv3*\] (⭐️624)
 
 ## Lua
 
-  - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  \[*GNU GPLv3*\] (⭐️14484)
+  - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  \[*GNU GPLv3*\] (⭐️14486)
   - [kennyledet/Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations) - Share, discuss and learn about algorithm implementations! \[*MIT License*\] (⭐️2190)
-  - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions \[*MIT License*\] (⭐️3899)
-  - [mokevnin/dotfiles](https://github.com/mokevnin/dotfiles) - using vim (⭐️440)
-  - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. \[*GNU GPLv3*\] (⭐️28542)
+  - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions \[*MIT License*\] (⭐️3900)
+  - [mokevnin/dotfiles](https://github.com/mokevnin/dotfiles) - using vim (⭐️441)
+  - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. \[*GNU GPLv3*\] (⭐️28544)
 
 ## Markdown
 
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️561695)
-  - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.  (⭐️136044)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️561992)
+  - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.  (⭐️136050)
 
 ## Mustache
 
@@ -234,7 +234,7 @@ Total starred repositories: `282`
 
 ## Objective-C
 
-  - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux \[*GNU GPLv3*\] (⭐️13740)
+  - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux \[*GNU GPLv3*\] (⭐️13752)
 
 ## PHP
 
@@ -248,58 +248,58 @@ Total starred repositories: `282`
   - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support \[*MIT License*\] (⭐️2430)
   - [dingo/api](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks. \[*Modified BSD License*\] (⭐️9394)
   - [docker-archive-public/docker.labs](https://github.com/docker-archive-public/docker.labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome. \[*Apache License 2.0*\] (⭐️11881) *Archived!*
-  - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. \[*MIT License*\] (⭐️6768)
+  - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities. \[*MIT License*\] (⭐️6770)
   - [flugg/laravel-responder](https://github.com/flugg/laravel-responder) - A Laravel Fractal package for building API responses, giving you the power of Fractal with Laravel's elegancy. \[*MIT License*\] (⭐️887)
-  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you \[*MIT License*\] (⭐️26614) *Archived!*
+  - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you \[*MIT License*\] (⭐️26612) *Archived!*
   - [Gregwar/Image](https://github.com/Gregwar/Image) - A PHP library to handle images \[*MIT License*\] (⭐️1013)
   - [iwyg/jitimage](https://github.com/iwyg/jitimage) - Just In Time image manipulation (GD, Imagick, imagemagick) with integration for laravel 4 \[*MIT License*\] (⭐️94)
   - [jenssegers/imagehash](https://github.com/jenssegers/imagehash) - 🌄 Perceptual image hashing for PHP \[*MIT License*\] (⭐️2062)
   - [jfcherng/php-diff](https://github.com/jfcherng/php-diff) - A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc). \[*Modified BSD License*\] (⭐️485)
-  - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. \[*MIT License*\] (⭐️34997)
+  - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. \[*MIT License*\] (⭐️34999)
   - [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel. \[*MIT License*\] (⭐️3771)
   - [marcelgwerder/laravel-api-handler](https://github.com/marcelgwerder/laravel-api-handler) - Package providing helper functions for a Laravel REST-API (⭐️155)
   - [markrogoyski/ipv4-subnet-calculator-php](https://github.com/markrogoyski/ipv4-subnet-calculator-php) - PHP library for IPv4 subnet calculations, CIDR operations, and network planning. \[*MIT License*\] (⭐️175)
   - [mattstauffer/Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications \[*MIT License*\] (⭐️1864)
   - [neomerx/json-api](https://github.com/neomerx/json-api) - Framework agnostic JSON API (jsonapi.org) implementation \[*Apache License 2.0*\] (⭐️736)
-  - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security \[*MIT License*\] (⭐️7132)
+  - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security \[*MIT License*\] (⭐️7135)
   - [phpfunct/funct](https://github.com/phpfunct/funct) - A PHP library with commonly used code blocks \[*MIT License*\] (⭐️604)
-  - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library \[*MIT License*\] (⭐️5610)
-  - [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP \[*MIT License*\] (⭐️12458)
+  - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library \[*MIT License*\] (⭐️5611)
+  - [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP \[*MIT License*\] (⭐️12457)
   - [railt/railt](https://github.com/railt/railt) - ⚡️ A PHP GraphQL Framework \[*MIT License*\] (⭐️359)
   - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships \[*MIT License*\] (⭐️1762)
-  - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen \[*MIT License*\] (⭐️11485)
+  - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen \[*MIT License*\] (⭐️11486)
 
 ## Python
 
   - [arikchakma/gpu-time](https://github.com/arikchakma/gpu-time) - A small neural model for parsing date & time \[*MIT License*\] (⭐️217)
-  - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux \[*GNU GPLv3*\] (⭐️9065)
-  - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. \[*Apache License 2.0*\] (⭐️23332)
-  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️377633)
+  - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux \[*GNU GPLv3*\] (⭐️9074)
+  - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. \[*Apache License 2.0*\] (⭐️23359)
+  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️377657)
   - [fluentpython/example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python, 1st Edition (O'Reilly, 2015) \[*MIT License*\] (⭐️5557) *Archived!*
   - [huyvohcmc/coursera-dsa](https://github.com/huyvohcmc/coursera-dsa) - Coursera's Data Structures and Algorithms Specialization \[*MIT License*\] (⭐️150)
-  - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/ (⭐️7953)
-  - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (⭐️27959)
-  - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows. \[*GNU GPLv2*\] (⭐️5257)
-  - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations \[*MIT License*\] (⭐️4780)
-  - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. \[*Apache License 2.0*\] (⭐️29241)
+  - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/ (⭐️7952)
+  - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (⭐️27958)
+  - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows. \[*GNU GPLv2*\] (⭐️5258)
+  - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations \[*MIT License*\] (⭐️4783)
+  - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. \[*Apache License 2.0*\] (⭐️29260)
 
 ## Rust
 
   - [abhimanyu003/qubit](https://github.com/abhimanyu003/qubit) - A handy calculator, based on Rust and WebAssembly.  \[*MIT License*\] (⭐️97)
   - [andars/rust-calculator](https://github.com/andars/rust-calculator) - Calculator written in rust \[*MIT License*\] (⭐️31)
-  - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes. \[*GNU GPLv3*\] (⭐️11854)
+  - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes. \[*GNU GPLv3*\] (⭐️11859)
   - [harshvishu/mocker](https://github.com/harshvishu/mocker) - mock REST client for everyone \[*MIT License*\] (⭐️1)
   - [In-line/calculator](https://github.com/In-line/calculator) - Simple mathematical expression evaluator (aka calculator) built using Nom, Pratt Parser, LLVM, Cranelift and Relm. (⭐️51)
-  - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. (⭐️45668)
-  - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (⭐️20323)
+  - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. (⭐️45683)
+  - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI. (⭐️20455)
   - [lukewilson2002/rsc](https://github.com/lukewilson2002/rsc) - A handwritten scientific calculator for interpreting equations. \[*MIT License*\] (⭐️41)
   - [MAIF/yozefu](https://github.com/MAIF/yozefu) -  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.  (⭐️354)
   - [miam-miam/Calculator](https://github.com/miam-miam/Calculator) - A Calculator app made in rust \[*MIT License*\] (⭐️3)
   - [oppiliappan/eva](https://github.com/oppiliappan/eva) - a calculator REPL, similar to bc(1) \[*MIT License*\] (⭐️918)
-  - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. \[*Apache License 2.0*\] (⭐️19322)
-  - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph \[*MIT License*\] (⭐️12738)
+  - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. \[*Apache License 2.0*\] (⭐️19335)
+  - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph \[*MIT License*\] (⭐️12740)
   - [orhun/cyme](https://github.com/orhun/cyme) - List system USB buses and devices; a lib and modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features \[*GNU GPLv3*\] (⭐️4)
-  - [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin. \[*Creative Commons Attribution 4.0 International*\] (⭐️14808)
+  - [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Practice your rust skill hardly \[*Creative Commons Attribution 4.0 International*\] (⭐️14807)
   - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. \[*MIT License*\] (⭐️7727)
   - [rodolf0/tox](https://github.com/rodolf0/tox) - misc parsers in rust (⭐️67)
   - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust \[*MIT License*\] (⭐️1681)
@@ -307,26 +307,26 @@ Total starred repositories: `282`
 
 ## Shell
 
-  - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access and identity passthrough. \[*Apache License 2.0*\] (⭐️1789)
-  - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox \[*MIT License*\] (⭐️2582)
-  - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, Debian, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments. \[*GNU GPLv3*\] (⭐️4500)
+  - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access and identity passthrough. \[*Apache License 2.0*\] (⭐️1790)
+  - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox \[*MIT License*\] (⭐️2580)
+  - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, Debian, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments. \[*GNU GPLv3*\] (⭐️4502)
   - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k. \[*MIT License*\] (⭐️13399) *Archived!*
   - [unixorn/fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin) - ZSH plugin to enable fzf searches of a lot more stuff - docker, tmux, homebrew and more. \[*Apache License 2.0*\] (⭐️438)
-  - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  (⭐️62813)
+  - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀  (⭐️62821)
 
 ## Swift
 
-  - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations (⭐️7863)
-  - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers. \[*GNU AGPLv3*\] (⭐️1485)
-  - [serhatandic/kuvo-box](https://github.com/serhatandic/kuvo-box) - A small, native Docker app for macOS. Runs the real Docker engine in a lightweight VM. (⭐️9)
+  - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations (⭐️7877)
+  - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers. \[*GNU AGPLv3*\] (⭐️1490)
+  - [serhatandic/kuvo-box](https://github.com/serhatandic/kuvo-box) - A small, native Docker app for macOS. Runs the real Docker engine in a lightweight VM. (⭐️8)
 
 ## TypeScript
 
-  - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ \[*GNU AGPLv3*\] (⭐️19678)
+  - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ \[*GNU AGPLv3*\] (⭐️19692)
   - [cjquines/qboard](https://github.com/cjquines/qboard) - The efficient digital whiteboard. \[*MIT License*\] (⭐️89)
   - [datawan-labs/pg](https://github.com/datawan-labs/pg) - In Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm) \[*MIT License*\] (⭐️795)
-  - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress \[*MIT License*\] (⭐️14361)
-  - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams \[*MIT License*\] (⭐️135493)
+  - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress \[*MIT License*\] (⭐️14373)
+  - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams \[*MIT License*\] (⭐️135542)
   - [gridaco/grida](https://github.com/gridaco/grida) - Grida — Open Canvas \[*Apache License 2.0*\] (⭐️2706)
   - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging. \[*GNU GPLv3*\] (⭐️8174)
   - [kubenote/KubeForge](https://github.com/kubenote/KubeForge) - Visual Editor for Kubernetes Deployments \[*GNU GPLv3*\] (⭐️580)
@@ -334,11 +334,11 @@ Total starred repositories: `282`
   - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents. \[*Apache License 2.0*\] (⭐️1951)
   - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - EvilCharts is an open-source chart UI website built with shadcn and Recharts, beautifully designed and handcrafted. \[*MIT License*\] (⭐️3174)
   - [odiak/draw](https://github.com/odiak/draw) - Kakeru: A collaborative whiteboard app on the Web \[*MIT License*\] (⭐️28) *Archived!*
-  - [shadcn-labs/mdxcn](https://github.com/shadcn-labs/mdxcn) - mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli. \[*MIT License*\] (⭐️490)
+  - [shadcn-labs/mdxcn](https://github.com/shadcn-labs/mdxcn) - mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli. \[*MIT License*\] (⭐️491)
   - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility \[*Modified BSD License*\] (⭐️47368)
-  - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. (⭐️51459)
+  - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. (⭐️51379)
   - [wigggle-ui/ui](https://github.com/wigggle-ui/ui) - A beautiful collection of copy-and-paste widgets for your next project. \[*MIT License*\] (⭐️901)
-  - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers \[*MIT License*\] (⭐️143254)
+  - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers \[*MIT License*\] (⭐️143272)
 
 ## Unknown
 
@@ -346,38 +346,38 @@ Total starred repositories: `282`
   - [abhimanyu003/minify-html](https://github.com/abhimanyu003/minify-html) - Minify HTML - inline CSS - inline JS on the fly (⭐️2)
   - [abhimanyu003/phpstorm-spacegray](https://github.com/abhimanyu003/phpstorm-spacegray) - phpStorm color scheme based on http://kkga.github.io/spacegray/ \[*MIT License*\] (⭐️220)
   - [agusdellaquila/midcode](https://github.com/agusdellaquila/midcode) - midcode: a visual editor for Next.js sites, for macOS. Releases and issues. (⭐️13)
-  - [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) - Say cheese! Star this repo and your profile picture gets printed out on a receipt printer. (⭐️1836)
-  - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems \[*MIT License*\] (⭐️75636)
+  - [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) - Say cheese! Star this repo and your profile picture gets printed out on a receipt printer. (⭐️1839)
+  - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems \[*MIT License*\] (⭐️75659)
   - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise  \[*Creative Commons Attribution 4.0 International*\] (⭐️3479)
   - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust (⭐️12281)
-  - [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020 (⭐️18432)
+  - [darius-khll/golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020 (⭐️18433)
   - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization (⭐️10896)
-  - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (⭐️9506)
+  - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (⭐️9516)
   - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (⭐️952)
-  - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.  (⭐️13260) *Archived!*
-  - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (⭐️17759)
-  - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️32054)
-  - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API (⭐️13670)
+  - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.  (⭐️13258) *Archived!*
+  - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world. (⭐️17767)
+  - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️32055)
+  - [interagent/http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API (⭐️13669)
   - [joaocgduarte/concurrency-in-go](https://github.com/joaocgduarte/concurrency-in-go) - These are all my learnings gathered on concurrency in golang \[*MIT License*\] (⭐️339)
-  - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️364226)
-  - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️42578)
-  - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (⭐️46868)
-  - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources \[*Creative Commons Attribution 4.0 International*\] (⭐️14395)
+  - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️364283)
+  - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git \[*Creative Commons Attribution Share Alike 4.0 International*\] (⭐️42577)
+  - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (⭐️46878)
+  - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources \[*Creative Commons Attribution 4.0 International*\] (⭐️14399)
   - [lrlna/smol-zines](https://github.com/lrlna/smol-zines) - sketching out concepts one 📝 at a time \[*MIT License*\] (⭐️518)
   - [marcelgsantos/learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php) - A collection of resources to learn object-oriented programming and related concepts for PHP developers. (⭐️2505)
-  - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about \[*Creative Commons Attribution 4.0 International*\] (⭐️100649)
-  - [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️48945)
+  - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about \[*Creative Commons Attribution 4.0 International*\] (⭐️100654)
+  - [nilbuild/design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns (⭐️48951)
   - [s905060/site-reliability-engineer-handbook](https://github.com/s905060/site-reliability-engineer-handbook) -  (⭐️105)
-  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️76171) *Archived!*
-  - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API \[*MIT License*\] (⭐️23349)
-  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️257574)
+  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️76169) *Archived!*
+  - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API \[*MIT License*\] (⭐️23351)
+  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. \[*MIT License*\] (⭐️257837)
   - [uhub/awesome-go](https://github.com/uhub/awesome-go) - A curated list of awesome Go frameworks, libraries and software. (⭐️1852)
   - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (⭐️28673)
   - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things. \[*Do What The F*ck You Want To Public License*\] (⭐️32797)
-  - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way \[*MIT License*\] (⭐️46052)
+  - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way \[*MIT License*\] (⭐️46051)
 
 ## Vue
 
-  - [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software \[*GNU AGPLv3*\] (⭐️3495)
+  - [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software \[*GNU AGPLv3*\] (⭐️3498)
   - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles \[*Apache License 2.0*\] (⭐️19938)
 
